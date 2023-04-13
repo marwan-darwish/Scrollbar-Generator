@@ -1,6 +1,6 @@
 import React from "react"
 import Main from "./components/Main"
-
+import About from"./components/About"
 function App() {
   return (
     <>
@@ -9,7 +9,7 @@ function App() {
       </header>
 
       <Main />
-
+<About/>
     </>
   )
 }
